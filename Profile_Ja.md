@@ -98,24 +98,28 @@ BACKSPACE Productions Inc. は、backspacetokyo のメンバーと社会を繋�
 
 [![](assets/Logo_300x300/BSP_Logo_Square_Black.png)](assets/Logo_2000x2000/BSP_Logo_Square_Black.png)
 [![](assets/Logo_300x300/BSP_Logo_Square_White.png)](assets/Logo_2000x2000/BSP_Logo_Square_White.png)
+
 [![](assets/Logo_300x300/BST_Logo_Square_Black.png)](assets/Logo_2000x2000/BST_Logo_Square_Black.png)
 [![](assets/Logo_300x300/BST_Logo_Square_White.png)](assets/Logo_2000x2000/BST_Logo_Square_White.png)
 
 [![](assets/Logo_300x300/BSP_Logo_Horiz_Black.png)](assets/Logo_2000x2000/BSP_Logo_Horiz_Black.png)
 [![](assets/Logo_300x300/BSP_Logo_Horiz_White.png)](assets/Logo_2000x2000/BSP_Logo_Horiz_White.png)
+
 [![](assets/Logo_300x300/BST_Logo_Horiz_Black.png)](assets/Logo_2000x2000/BST_Logo_Horiz_Black.png)
 [![](assets/Logo_300x300/BST_Logo_Horiz_White.png)](assets/Logo_2000x2000/BST_Logo_Horiz_White.png)
 
 
-### ロゴ画像 背景透過
+### ロゴ画像 背景透過（!!!: github上だと背景白なので見えない）
 
 [![](assets/Logo_300x300/BSP_Logo_Square_Black_Transparent.png)](assets/Logo_2000x2000/BSP_Logo_Square_Black_Transparent.png)
 [![](assets/Logo_300x300/BSP_Logo_Square_White_Transparent.png)](assets/Logo_2000x2000/BSP_Logo_Square_White_Transparent.png)
+
 [![](assets/Logo_300x300/BST_Logo_Square_Black_Transparent.png)](assets/Logo_2000x2000/BST_Logo_Square_Black_Transparent.png)
 [![](assets/Logo_300x300/BST_Logo_Square_White_Transparent.png)](assets/Logo_2000x2000/BST_Logo_Square_White_Transparent.png)
 
 [![](assets/Logo_300x300/BSP_Logo_Horiz_Black_Transparent.png)](assets/Logo_2000x2000/BSP_Logo_Horiz_Black_Transparent.png)
 [![](assets/Logo_300x300/BSP_Logo_Horiz_White_Transparent.png)](assets/Logo_2000x2000/BSP_Logo_Horiz_White_Transparent.png)
+
 [![](assets/Logo_300x300/BST_Logo_Horiz_Black_Transparent.png)](assets/Logo_2000x2000/BST_Logo_Horiz_Black_Transparent.png)
 [![](assets/Logo_300x300/BST_Logo_Horiz_White_Transparent.png)](assets/Logo_2000x2000/BST_Logo_Horiz_White_Transparent.png)
 
